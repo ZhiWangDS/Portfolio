@@ -1,7 +1,7 @@
 # Hi, I'm Zhi Wang
 
 ## Education
-**B.A., Data Science | University of California, Berkeley (May 2023)**
+**B.A., Data Science   |   University of California, Berkeley (May 2023)**
 
 ## Skills
 - Programming Language: Python, SQL, MATLAB, Java, Pascal Capstone Software, C++
@@ -10,16 +10,16 @@
 
 
 ## Projects
-**Mental Health Twitter**
+**[Mental Health Twitter](https://github.com/ZhiWangDS/Mental-Health-Twitter)**
 - Targets mental health classification.
 - After sentiment analysis and EDA, I tested models with Naive Bayes, SVM, logistic regression, Random Forest, Neural Network, Bert fine tuning NLP and RNN
 - Reached 88.4% accuracy.
 
-**Spam Email Detection**
+**[Spam Email Detection](https://github.com/ZhiWangDS/Spam-Email-Detection)**
 - Built classification models with SVMs, LDA, GDA, Random Forest and Decision Trees from Scratch for spam email detection.
 - Finally, the result obtained 84.4% accuracy.
 
-**IEEE 57-Bus Power Network**
+**[IEEE 57-Bus Power Network](https://github.com/ZhiWangDS/IEEE-57-Bus-Power-Network)**
 - Using linear programming to perform network analysis, pricing.
 - Cyberattack detection for the IEEE 57-bus power network.
 - And solving this LP in Matlab CVX to obtain the solution of the optimal power flow problem.
