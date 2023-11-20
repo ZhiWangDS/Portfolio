@@ -4,25 +4,20 @@
 **B.A., Data Science   |   University of California, Berkeley (May 2023)**
 
 ## Skills
-- Programming Language: Python, SQL, MATLAB, Java, Pascal Capstone Software, C++
-- Machine Learning(+deep learning, NPL): Neural Networks, Clustering, K Means, KNN, Decision Trees, Random Forest, Keras, NLP, SVM, CNN, RNN, Bert NLP, Jupyter Notebooks, scikit-learn, Pandas
-- Languages: Bilingual in English and Mandarin
+- **Programming Language:** Python, SQL, MATLAB, Java, Pascal Capstone Software, C++
+- **Machine Learning(+deep learning, NPL):** Neural Networks, Clustering, K Means, KNN, Decision Trees, Random Forest, Keras, NLP, SVM, CNN, RNN, Bert NLP, Jupyter Notebooks, scikit-learn, Pandas
+- **Languages:** Bilingual in English and Mandarin
 
 
 ## Projects
 **[Mental Health Twitter](https://github.com/ZhiWangDS/Mental-Health-Twitter)**
-- Targets mental health classification.
-- After sentiment analysis and EDA, I tested models with Naive Bayes, SVM, logistic regression, Random Forest, Neural Network, Bert fine tuning NLP and RNN
-- Reached 88.4% accuracy.
+Targets mental health classification.After sentiment analysis and EDA, I tested models with Naive Bayes, SVM, logistic regression, Random Forest, Neural Network, Bert fine tuning NLP and RNN, which reached 88.4% accuracy.
 
 **[Spam Email Detection](https://github.com/ZhiWangDS/Spam-Email-Detection)**
-- Built classification models with SVMs, LDA, GDA, Random Forest and Decision Trees from Scratch for spam email detection.
-- Finally, the result obtained 84.4% accuracy.
+Built classification models with SVMs, LDA, GDA, Random Forest and Decision Trees from Scratch for spam email detection. Finally, the result obtained 84.4% accuracy.
 
 **[IEEE 57-Bus Power Network](https://github.com/ZhiWangDS/IEEE-57-Bus-Power-Network)**
-- Using linear programming to perform network analysis, pricing.
-- Cyberattack detection for the IEEE 57-bus power network.
-- And solving this LP in Matlab CVX to obtain the solution of the optimal power flow problem.
+Using linear programming to perform network analysis, pricing and cyberattack detection for the IEEE 57-bus power network. And solving this LP in Matlab CVX to obtain the solution of the optimal power flow problem.
   
 
 
