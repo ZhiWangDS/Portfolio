@@ -1,7 +1,8 @@
 # Hi, I'm Zhi Wang
 
 ## Education
-**B.A., Data Science   |   University of California, Berkeley (May 2023)**
+**Master of Computer Science   |   University of Illinois, Urbana-Champaign**
+**Bachelor of Data Science     |   University of California, Berkeley**
 
 ## Skills
 - **Programming Language:** Python, SQL, MATLAB, Java, Pascal Capstone Software, C++
