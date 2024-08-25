@@ -1,7 +1,9 @@
 # Hi, I'm Zhi Wang
 
 ## Education
-**B.A., Data Science   |   University of California, Berkeley (May 2023)**
+- **Master of Computer Science  |   University of Illinois, Urbana-Champaign**
+- **Bachelor of Data Science   |   University of California, Berkeley**
+
 
 ## Skills
 - **Programming Language:** Python, SQL, MATLAB, Java, Pascal Capstone Software, C++
@@ -23,6 +25,11 @@ Using linear programming to perform network analysis, pricing and cyberattack de
 
 
 ## Work Experience 
+**Accountant @ Gold Harbor Investments LLC (Jan 2024- Present)**
+- Ensure adherence to accounting standards, tax regulations, and industry guidelines in real estate.
+- Skilled in budgeting, financial reporting, and expense control to optimize property performance.
+
+
 **Floor Coordinator @ Commerce Hotel and Casino (Jan 2017-Jan 2021)**
 - Safeguards the confidential nature of all departmental and general property records.
 - Works cohesively with all departments for the benefit of operations and employee/customer relations.
