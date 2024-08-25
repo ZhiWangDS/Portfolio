@@ -1,9 +1,9 @@
 # Hi, I'm Zhi Wang
 
 ## Education
-- **Master of Computer Science  |   University of Illinois, Urbana-Champaign**
+**Master of Computer Science  |   University of Illinois, Urbana-Champaign**
   
-- **Bachelor of Data Science   |   University of California, Berkeley**
+**Bachelor of Data Science   |   University of California, Berkeley**
 
 
 ## Skills
