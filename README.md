@@ -35,7 +35,3 @@ Using linear programming to perform network analysis, pricing and cyberattack de
 - Works cohesively with all departments for the benefit of operations and employee/customer relations.
 - Maintains good public and employee relations. Increases the growth of gaming revenues through the development of a targeted guest base.
 
-**California Dealer @ The Bicycle Hotel & Casino (Aug 2016- Jan 2017)**
-- Follows collections procedures to ensure that collections are properly obtained and recorded.
-- Notifies Floorperson or Shift Manager of any suspicious activity, discrepancies or mistakes in games that could disrupt the flow of the game or create a potentially hazardous condition.
-
